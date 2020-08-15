@@ -25,4 +25,4 @@
   원격저장소 (remote repo) 연결
 
 자주쓰는 명령어 도식화
-[자주쓰는 명령어 도식화]()
+[자주쓰는 명령어 도식화](https://github.com/4923/Github_and_Distribution/blob/master/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EB%A1%9C%EC%BB%AC.png)
