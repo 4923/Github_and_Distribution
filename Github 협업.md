@@ -56,7 +56,7 @@ git 저장소의 현재 상태 확인
 staging area에 올라오지 않은 파일이 있는지, 어느 브랜치에 있는지 등등을 출력
 
 **협업과정 도식화**
-![협업과정 도식화]()
+![협업과정 도식화](https://github.com/4923/Github_and_Distribution/blob/master/%ED%98%91%EC%97%85%EA%B3%BC%EC%A0%95.png)
 
 
 
