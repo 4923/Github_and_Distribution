@@ -16,4 +16,8 @@
 5. repo 선택 (3단계에서 netlify가 설치된 repo만 선택할 수 있음)
   * Basic build settings 추가적으로 설정하는 부분이라 만지지 않음.
 6. Deploy Site
-  상태가 Published로 뜨고, url 들어가면 repo가 뜬다. 근데 지금은 html 올려둔게 없어서 Page not find로 뜨나?
+  상태가 Published로 뜨고, url 들어가면 repo가 뜬다.
+  
+    근데 지금은 html 올려둔게 없어서 Page not find로 뜨나? => 안되는데? 검색해보니까 뭘 덜했나본데 index.html로 해야하나???
+
+
