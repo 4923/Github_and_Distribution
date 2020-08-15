@@ -18,6 +18,8 @@
 6. Deploy Site
   상태가 Published로 뜨고, url 들어가면 repo가 뜬다.
   
-    근데 지금은 html 올려둔게 없어서 Page not find로 뜨나? => 안되는데? 검색해보니까 뭘 덜했나본데 index.html로 해야하나???
+    근데 지금은 html 올려둔게 없어서 Page not find로 뜨나?
+    => 안되는데? 검색해보니까 뭘 덜했나본데 index.html로 해야하나???
+    => 안되는데???
 
 
