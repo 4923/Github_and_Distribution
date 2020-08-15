@@ -92,3 +92,6 @@ Collaborator가 아닌 상태에서 pr하기
 4. 원본 repo 소유자에게 pr 요청
 5. 원본 repo 소유자가 승인하여 merge 하면 자동으로 collaborator 추가됨
 
+### fork 실습
+* [4923/Spoon-Knife: forked repo](https://github.com/4923/Spoon-Knife)
+* [pull request](https://github.com/octocat/Spoon-Knife/pull/21067)
