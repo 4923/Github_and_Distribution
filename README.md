@@ -1,4 +1,4 @@
-<h1 align="center">Github_and_Distribution<br>(Django Hosting)</h1>
+<h1 align="center">Github N Distribution<br>(Django Hosting)</h1>
 
 <div align="center">
   <img alt="GitHub last commit" align="center"
